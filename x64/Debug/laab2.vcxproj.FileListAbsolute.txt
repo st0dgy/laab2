@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\laab2\x64\Debug\laab2.exe
+C:\Users\admin\source\repos\laab2\x64\Debug\laab2.pdb
